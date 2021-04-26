@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rrrinat84
-- 🔭 I’m currently working on https://github.com/MyTona/HCG-Cockroach
+- 🔭 I’m currently working on https://github.com/MyTona/HCG-BazookaRunner
 - 👀 I’m interested in Unity
 - 🌱 I’m currently learning Extenject
 - 💞️ I’m looking to collaborate on ...
